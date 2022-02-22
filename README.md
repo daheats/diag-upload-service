@@ -16,6 +16,6 @@ Encompasses the take-home test items for the Diag Upload Service.
 
 - I chose CloudWatch (obviously) to take care of monitoring. With CloudWatch, you can configure and receive CloudWatch Logs, and set up dashboards based on CloudWatch metrics. Using CloudWatch seemed like a no brainer to me for the observability factor in this challenge.
 
-- The CloudWatch dashboard which will house the CloudWatch metrics will reflect the [https://sre.google/sre-book/monitoring-distributed-systems/](four golden signals that Google's site reliability engineers use) - Latency, Traffic, Errors, and Saturation.
+- The CloudWatch dashboard which will house the CloudWatch metrics will reflect the [four golden signals that Google's site reliability engineers use](https://sre.google/sre-book/monitoring-distributed-systems/) - Latency, Traffic, Errors, and Saturation.
 
 ## Setup & Instructions for Running & Testing Locally
